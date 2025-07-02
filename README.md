@@ -8,8 +8,8 @@ This project demonstrates a simple TCP Server and Client implementation using Ko
 
 - TCPServer.kt – Kotlin code for the TCP Server
 - TCPClient.kt – Kotlin code for the TCP Client
-- TCPServer.jar – Compiled JAR for the server (universal executable)
-- TCPClient.jar – Compiled JAR for the client (universal executable)
+- TCP.jar – Compiled JAR for the server (universal executable)
+- TCP_c.jar – Compiled JAR for the client (universal executable)
 
 ---
 
@@ -25,8 +25,3 @@ This project demonstrates a simple TCP Server and Client implementation using Ko
 ## 🚀 How to Run the JAR Files
 
 > ⚠ *Run the server first, then the client.*
-
-### 1. Run Server
-
-```bash
-java -jar TCP_c.jar
